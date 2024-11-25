@@ -1,8 +1,8 @@
 # collectives
 ================================
 
-k8s
-promethous
+. k8s
+. promethous
 grafana
 linux admin --> to complete
 RCA -->
